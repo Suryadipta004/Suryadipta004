@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
 ">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=suryadipta004&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Ffront-end-developer&psig=AOvVaw09Js-vWnK9qE7gvqRByQJ3&ust=1691781916868000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCm7KHo0oADFQAAAAAdAAAAABAp)" alt="suryadipta004" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="suryadipta004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
