@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryadipta004&show_icons=true&locale=en" alt="suryadipta004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadipta004&" alt="suryadipta004" /></p>
-
-Make it more creative with AI
