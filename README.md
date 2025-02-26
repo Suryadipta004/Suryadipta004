@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 # Hello World!, I'm Suryadipta, a Software Developer 👋🏼:
-🛜 currently working on my [Project]()<br>👨🏼‍🎓 studying media based computer science at University of Calcutta<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+
 🛜 **Currently Building Something Exciting!** [Project]() 🔥  
 👨🏼‍🎓 **Media-Based Computer Science Student** @ University of Calcutta 🎓  
 👨🏼‍💻 **Web Developer Since 2022** | Passionate about crafting immersive & high-performance web experiences 🚀  
