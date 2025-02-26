@@ -5,7 +5,7 @@
 🛜 **Currently Building Something Exciting!** [Project]() 🔥  
 👨🏼‍🎓 **Media-Based Computer Science Student** @ University of Calcutta 🎓  
 👨🏼‍💻 **Web Developer Since 2022** | Passionate about crafting immersive & high-performance web experiences 🚀  
-🎬 **YouTube Creator** @ *Tobi Tackles Tech* | Breaking down complex tech with engaging content 🎥💡  
+🎬 Breaking down complex tech with engaging content 🎥💡  
 💻 **Tech Enthusiast** | AI, Full-Stack Dev, Cybersecurity & More ⚡  
 🚀 **Always Innovating, Always Learning!**
 
