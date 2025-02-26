@@ -15,7 +15,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadipta004&show_icons=true&locale=en&layout=compact" alt="suryadipta004" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryadipta004&show_icons=true&locale=en" alt="suryadipta004" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadipta004&" alt="suryadipta004" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
