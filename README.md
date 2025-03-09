@@ -3,7 +3,7 @@
 # Hello World!, I'm Suryadipta, a Software Developer 👋🏼:
 
 🛜 **Currently Building Something Exciting!** [Project]() 🔥  
-🔭 I’m currently working on Machine Learning
+🔭 **I’m currently working on Machine Learning**  
 👨🏼‍🎓 **Media-Based Computer Science Student** @ University of Calcutta 🎓  
 👨🏼‍💻 **Web Developer Since 2022** | Passionate about crafting immersive & high-performance web experiences 🚀  
 🎬 Breaking down complex tech with engaging content 🎥💡  
